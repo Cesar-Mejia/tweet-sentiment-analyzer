@@ -3,6 +3,9 @@
 ## Description
 This project is a machine learning platform that takes in twitter posts from a dataset and performs sentiment analysis on each post. The goal is to classify the sentiment of the tweets as positive or negative. 
 
+## Dataset
+The data set used features 1.6 million tweets extracted using the twitter API. The dataset can be viewed and downloaded at https://www.kaggle.com/datasets/kazanova/sentiment140
+
 ## Data Preprocessing
 The data is preprocessed before it is classified. This includes removing special characters, numbers, and URLs, and converting all characters to lowercase. Stop words are also removed and lemmatization is performed on each word. 
 
