@@ -1,6 +1,5 @@
 # Twitter Sentiment Analysis
 
-## Description
 This project is a machine learning platform that takes in twitter posts from a dataset and performs sentiment analysis on each post. The goal is to classify the sentiment of the tweets as positive or negative. 
 
 ## Dataset
